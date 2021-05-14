@@ -1,7 +1,7 @@
 {
   "name": "curcode",
   "types": "index.d.ts",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Lookup currency codes based on ISO 4217",
   "repository": "git://github.com/idimetrix/curcode.git",
   "keywords": [
